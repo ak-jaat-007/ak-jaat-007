@@ -1,3 +1,4 @@
+```text
 aman@iiitnagpur ---------------------------------------------------
 OS: ............ Ubuntu 22.04 LTS, Windows 11, Android 14
 Host: .......... IIIT Nagpur (Electronics & Communication Engineering)
@@ -22,5 +23,3 @@ Preferred IDE: . VS Code 1.96.0, Neovim
 . Industrial Experience: .... 6 Months Backend Intern (US Healthcare Domain)
 . Core Highlights: .......... NextFlow AI Orchestrator, Shopify Ingestion Service
 -------------------------------------------------------------------
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ak-jaat-007&show_icons=true&theme=tokyonight)
