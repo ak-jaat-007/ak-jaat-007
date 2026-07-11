@@ -1,5 +1,51 @@
-```text
-aman@iiitnagpur ---------------------------------------------------
+<table>
+<tr>
+<td valign="top">
+
+```
+                      .....-.             .......                     
+                 ....      -                     ....                 
+             ....          :                         ....             
+           .:.:            .                           ..:.           
+        ..:.: .            . ...:....                  .::.::         
+      ..   .- .            ::..:.....                   .:...::.      
+    .:.     : :           ..:::::::...                      -. :..    
+   .:.      : .            ..:.:::::...                   .::.....:   
+  : ..     .- :           . .. .:::::-::::..              ...: .  .:  
+.:  .:     .: :           .  -::--:.. :=-:....               ..     ..
+:   .:     .: :           .:.-::-:.   .:.     ::..                   .
+    .:     .: :            .:: .   .:::::     ..:.                    
+    .:     .. .             -:    .-:-::.:..   .:.                    
+     -      .              .:..  :::.... ..:                   .      
+     :                      ::-..:.  ......   .           :.          
+     -     ... .              ..::::.:::..    .           :.          
+     :     ..: .                 -::.....     .                       
+ ..  -     ... .                 - .....:.    ..    .                 
+     -     ..: .           .  .. ..                 .                 
+     :      .: .         .    .     ..       . .    .....             
+ . . .      .: :                 ..     ... .. -..        ....        
+ . . :      .:...      .                  .. .:   :                   
+  :. .      :..                      ..    ..:    .                   
+.           .  .    .                     .-.                         
+:          .    .  ..                     -.                         .
+.:        .      .                       .:                         .:
+ .:       .                                                        :: 
+   :.                .                                       .  .     
+    ..                                 .                       . .:.:.
+      ..                                                      :. :::::
+        ..                                .                 .. ..  .  
+          ....                        .  .               ...         .
+             ....                     .               ...             
+                ....                  .           ....                
+                     ......           .  ........                     
+                             .............                            
+```
+
+</td>
+<td valign="top">
+
+```
+aman@iiitnagpur ------------------------------------
 OS: ............ Ubuntu 22.04 LTS, Windows 11, Android 14
 Host: .......... IIIT Nagpur (Electronics & Communication Engineering)
 Uptime: ........ Final-Year Engineering Student (Graduating 2026)
@@ -13,13 +59,31 @@ Preferred IDE: . VS Code 1.96.0, Neovim
 - Focus.Backend: ............ Multi-Tenant Isolation, API Architectures, OAuth 2.0
 - Focus.Hardware: ........... Digital Logic Design, VLSI, Embedded Systems
 
-- Contact ---------------------------------------------------------
+- Contact ----------------------------------------
 . Email.Personal: ........... amanka937@gmail.com
-. GitHub: ................... https://github.com/ak-jaat-007
-. LinkedIn: ................. https://linkedin.com/in/aman-kaliramna
+. GitHub: .................. https://github.com/ak-jaat-007
+. LinkedIn: ................ https://linkedin.com/in/aman-kaliramna
 
-- Metrics & Foundations -------------------------------------------
+- Metrics & Foundations ----------------------------------------
 . Problem-Solving: .......... 500+ DSA Problems Solved (LeetCode/CodeChef)
 . Industrial Experience: .... 6 Months Backend Intern (US Healthcare Domain)
 . Core Highlights: .......... NextFlow AI Orchestrator, Shopify Ingestion Service
--------------------------------------------------------------------
+----------------------------------------
+```
+
+</td>
+</tr>
+</table>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak-jaat-007&show_icons=true&theme=tokyonight&hide_border=true" alt="Aman's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-jaat-007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ak-jaat-007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+### 📌 Pinned
